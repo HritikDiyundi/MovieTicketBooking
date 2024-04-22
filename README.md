@@ -33,4 +33,4 @@ Also, some data is pre-populated for sample purpose<br>
 * If current timing exceeds any show timing's end time, then status is changed to completed and hence,ticket cannot be booked for such shows..
 * If current timing exceeds any show timing's start time but not end time , then that show is running and hence,ticket cannot be booked for such shows.
 * This information is just for smooth usage. Everything is validated, no worry for the users.
-This is enough for sample purpose.
+This is enough for sample purpose..
